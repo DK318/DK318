@@ -1,0 +1,7 @@
+{
+  "name": "Beer Jetton",
+  "description": "Tasty beer coin",
+  "symbol": "BeerJet",
+  "decimals": 0,
+  "image": "https://www.svgrepo.com/download/493176/beer.svg"
+}
